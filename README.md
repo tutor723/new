@@ -21,4 +21,4 @@ Web Browser
 Database Connection Token
 
 # Scope of functionalities
-It is a very basic project for demonstration of JsonPowerDb with help of a web application for Employee management
+It is a project which are use for insert,edit,delete data in employee management sysyetem.
