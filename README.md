@@ -21,4 +21,4 @@ Web Browser
 Database Connection Token
 
 # Scope of functionalities
-It is a project which are use for insert,edit,delete data in employee management sysyetem.
+It is a project which are use for insert,edit,delete data in employee management system.
