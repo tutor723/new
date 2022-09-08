@@ -6,8 +6,8 @@ CRUD API JSONPowerDB is a High Performance, Light Weight, Ajax Enabled, Serverle
 ![Image text](/path/to/the/untitled.png)
 ##About JsonPowerDB:
 JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
-![Insertion]( https://github.com/tutor723/new.git/blob/main/untitled.png)&nbsp;&nbsp;
-
+![Insertion]( https://github.com/tutor723/new.git/blob/main/Untitled.png)&nbsp;&nbsp;
+Untitled.png
 ##Benefits of using JsonPowerDB
 Simplest way to retrieve data in a JSON format.
 Schema-free, Simple to use, Nimble and In-Memory database.
