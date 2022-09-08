@@ -1,7 +1,7 @@
 # CRUD API JSONPowerDB
 ## Description
 CRUD API JSONPowerDB is a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
-![My animated logo](untitled.png)
+![My animated logo](Untitled.png)
 ### Screenshot
 ![Image text](/path/to/the/Untitled.png)
 ##About JsonPowerDB:
